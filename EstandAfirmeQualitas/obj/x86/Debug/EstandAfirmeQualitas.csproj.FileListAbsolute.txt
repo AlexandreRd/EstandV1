@@ -1,0 +1,23 @@
+C:\Users\Griselda\AppData\Local\Temporary Projects\EstandAfirmeQualitas\obj\x86\Debug\EstandAfirmeQualitas.Form1.resources
+C:\Users\Griselda\AppData\Local\Temporary Projects\EstandAfirmeQualitas\obj\x86\Debug\EstandAfirmeQualitas.Properties.Resources.resources
+C:\Users\Griselda\AppData\Local\Temporary Projects\EstandAfirmeQualitas\obj\x86\Debug\EstandAfirmeQualitas.csproj.GenerateResource.Cache
+C:\Users\Griselda\AppData\Local\Temporary Projects\EstandAfirmeQualitas\bin\Debug\EstandAfirmeQualitas.exe
+C:\Users\Griselda\AppData\Local\Temporary Projects\EstandAfirmeQualitas\bin\Debug\EstandAfirmeQualitas.pdb
+C:\Users\Griselda\AppData\Local\Temporary Projects\EstandAfirmeQualitas\obj\x86\Debug\EstandAfirmeQualitas.exe
+C:\Users\Griselda\AppData\Local\Temporary Projects\EstandAfirmeQualitas\obj\x86\Debug\EstandAfirmeQualitas.pdb
+C:\Users\Griselda\Documents\Visual Studio 2010\Projects\EstandAfirmeQualitas\EstandAfirmeQualitas\obj\x86\Debug\EstandAfirmeQualitas.exe
+C:\Users\Griselda\Documents\Visual Studio 2010\Projects\EstandAfirmeQualitas\EstandAfirmeQualitas\obj\x86\Debug\EstandAfirmeQualitas.pdb
+C:\Users\Griselda\Documents\Visual Studio 2010\Projects\EstandAfirmeQualitas\EstandAfirmeQualitas\bin\Debug\EstandAfirmeQualitas.exe
+C:\Users\Griselda\Documents\Visual Studio 2010\Projects\EstandAfirmeQualitas\EstandAfirmeQualitas\bin\Debug\EstandAfirmeQualitas.pdb
+C:\Users\Griselda\Documents\Visual Studio 2010\Projects\EstandAfirmeQualitas\EstandAfirmeQualitas\obj\x86\Debug\EstandAfirmeQualitas.Form1.resources
+C:\Users\Griselda\Documents\Visual Studio 2010\Projects\EstandAfirmeQualitas\EstandAfirmeQualitas\obj\x86\Debug\EstandAfirmeQualitas.Properties.Resources.resources
+C:\Users\Griselda\Documents\Visual Studio 2010\Projects\EstandAfirmeQualitas\EstandAfirmeQualitas\obj\x86\Debug\EstandAfirmeQualitas.csproj.GenerateResource.Cache
+C:\Users\Griselda\documents\visual studio 2010\Projects\EstandAfirmeQualitas\EstandAfirmeQualitas\obj\x86\Debug\EstandAfirmeQualitas.csprojResolveAssemblyReference.cache
+C:\Users\Griselda\Documents\Visual Studio 2010\Projects\EstandAfirmeQualitas\EstandAfirmeQualitas\obj\x86\Debug\EstandAfirmeQualitas.csproj.ResolveComReference.cache
+C:\Users\Griselda\Documents\Visual Studio 2010\Projects\EstandAfirmeQualitas\EstandAfirmeQualitas\bin\Debug\RDotNet.dll
+C:\Users\Griselda\Documents\Visual Studio 2010\Projects\EstandAfirmeQualitas\EstandAfirmeQualitas\bin\Debug\RDotNet.NativeLibrary.dll
+C:\Users\Griselda\Documents\Visual Studio 2010\Projects\EstandAfirmeQualitas\EstandAfirmeQualitas\bin\Debug\RDotNet.xml
+C:\Users\Griselda\Documents\Visual Studio 2010\Projects\EstandAfirmeQualitas\EstandAfirmeQualitas\bin\Debug\RDotNet.NativeLibrary.xml
+C:\Users\Griselda\Documents\Visual Studio 2010\Projects\EstandAfirmeQualitas\EstandAfirmeQualitas\bin\Debug\MinimumEditDistance.dll
+C:\Users\Griselda\Documents\Visual Studio 2010\Projects\EstandAfirmeQualitas\EstandAfirmeQualitas\bin\Debug\EstandAfirmeQualitas.exe.config
+C:\Users\Griselda\Documents\Visual Studio 2010\Projects\EstandAfirmeQualitas\EstandAfirmeQualitas\bin\Debug\SimMetrics.dll
